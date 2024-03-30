@@ -83,7 +83,7 @@ h1.temp {
 
 .weather.loading:after{
     
-    content: "Loading....";
+    content: "Enter your city name";
     color: white;
     position: absolute;
     top: 0;
